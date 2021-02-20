@@ -2,7 +2,7 @@ var SlackBot = require('slackbots');
 var channel = 'general';
 
 var bot = new SlackBot({
-	token: 'xoxb-1754127287879-1781786545393-HrbdC9qDIMApWbXLzDu0W5wl',
+	token: 'xoxb-1754127287879-1781786545393-TnhaqHTduMGLgWwqHtNfWGR9',
 	name: 'loubot',
 });
 
@@ -20,7 +20,8 @@ bot.on('message', (data) => {
 });
 
 function handleMessage(message) {
-	switch (message) {
+	var lowerCaseMessage = message.toLowerCase(); // toLowercase in
+	switch (lowerCaseMessage) {
 		case 'hi':
 		case 'hey':
 		case 'hello':
@@ -52,11 +53,12 @@ function getGreetings() {
 		'hi there',
 	];
 	var random = Math.floor(Math.random() * greetings.length);
-	return greetings[random] + ' :robot_face:';
+	var sayHello = greetings[random];
+	return sayHello.charAt(0).toUpperCase() + sayHello.slice(1) + ' :robot_face:';
 }
 
 // number messages
-bot.on('message', (a, b) => {
+/* bot.on('message', (a, b) => {
 	if (isNaN(parseInt(a + b)) == false) {
 		handleNumbers(a, b);
 		console.log('numbers');
@@ -71,3 +73,4 @@ function addNums(a, b) {
 	var ans = a + b;
 	bot.postMessage(channel, ans);
 }
+ */
