@@ -18,15 +18,17 @@ Most coding bootcamps have a set class schedule and are taught by a live instruc
 
 ## UNIT 01 fundamentals of Javascript
 
-- Node
-  https://creative-coding.decontextualize.com/node/
-  https://www.digitalocean.com/community/tutorials/how-to-use-node-js-modules-with-npm-and-package-json
-
-- Slack bot
-  https://sabe.io/tutorials/learn-how-to-build-slack-bot-node-js#initializing-our-project-and-installing-slackbotsjs
-  https://morioh.com/p/603c5b32451d
+- learn about node
+- write functions
+- how to build a response slackbot
 
 ## UNIT 02 the browser and APIs
+
+- JSON
+- jQuery
+- learn ajax
+- restful API
+- build SPA using API from twitter or instagram
 
 ## UNIT 03 persisting data and advanced topics
 
