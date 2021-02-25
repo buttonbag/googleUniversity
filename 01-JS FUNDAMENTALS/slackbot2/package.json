@@ -1,0 +1,17 @@
+{
+  "name": "slackbot2",
+  "version": "1.0.0",
+  "description": "Simple slackbot that displays random quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Louie Camacho",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
