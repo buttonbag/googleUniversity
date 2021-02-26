@@ -12,3 +12,6 @@
 
 - consuming restful API
   https://spring.io/guides/gs/consuming-rest/
+
+- Objects
+  https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors
