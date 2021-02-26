@@ -4,6 +4,9 @@
 - AJAX
   https://www.w3schools.com/xml/ajax_intro.asp
 
+  - [tutorial] https://www.geeksforgeeks.org/ajax-introduction/
+  - [tutorial] https://www.geeksforgeeks.org/how-to-use-simple-api-using-ajax/
+
 - RESTful API
   https://www.dotnetcurry.com/nodejs/1146/using-nodejs-build-rest-apis
 
