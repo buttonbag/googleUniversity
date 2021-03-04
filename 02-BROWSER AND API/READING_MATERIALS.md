@@ -1,3 +1,5 @@
+CORE LESSONS:
+
 - Node.js Serving HTML
   https://www.dotnetcurry.com/nodejs/1144/nodejs-html-static-pages-website
 
@@ -10,8 +12,31 @@
 - RESTful API
   https://www.dotnetcurry.com/nodejs/1146/using-nodejs-build-rest-apis
 
-- consuming restful API
-  https://spring.io/guides/gs/consuming-rest/
+- REST API
+  https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
 
 - Objects
   https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors
+
+- SPA with twitter API
+  - what is SPA?
+    https://dzone.com/articles/what-is-a-single-page-application
+  - How to Build an HTML5 Single Page Application
+    https://www.youtube.com/watch?v=VCVoG1yTu8k&t=1004s
+  - single page app without framework
+    https://www.sitepoint.com/single-page-app-without-framework/
+  - Twitter API
+    https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
+    https://developer.twitter.com/en/docs/twitter-api
+  - how to do twitter authentication with react and restful api
+    https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb
+
+EXTRA:
+
+- API and Microservices
+  https://www.freecodecamp.org/learn/apis-and-microservices/
+
+CRUD
+
+- Building a Simple CRUD app with Node, Express, and MongoDB
+  https://zellwk.com/blog/crud-express-mongodb/
