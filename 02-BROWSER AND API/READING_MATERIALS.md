@@ -21,9 +21,7 @@ CORE LESSONS:
 - SPA with twitter API
   - what is SPA?
     https://dzone.com/articles/what-is-a-single-page-application
-  - How to Build an HTML5 Single Page Application
-    https://www.youtube.com/watch?v=VCVoG1yTu8k&t=1004s
-  - single page app without framework
+  - single page app without framework – BONUS: Express, Handlebars and Axios
     https://www.sitepoint.com/single-page-app-without-framework/
   - Twitter API
     https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
@@ -36,7 +34,11 @@ EXTRA:
 - API and Microservices
   https://www.freecodecamp.org/learn/apis-and-microservices/
 
-CRUD
-
-- Building a Simple CRUD app with Node, Express, and MongoDB
+- CRUD Building a Simple CRUD app with Node, Express, and MongoDB
   https://zellwk.com/blog/crud-express-mongodb/
+
+- How to Build an HTML5 Single Page Application
+  https://www.youtube.com/watch?v=VCVoG1yTu8k&t=1004s
+
+- more axios training
+  https://ricardo-d-moreira-rm.medium.com/make-a-api-request-using-axios-and-nasa-api-8af4925acc4f
