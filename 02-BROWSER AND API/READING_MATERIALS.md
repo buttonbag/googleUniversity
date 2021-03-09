@@ -1,9 +1,9 @@
 CORE LESSONS:
 
-- Node.js Serving HTML
+- \*Node.js Serving HTML
   https://www.dotnetcurry.com/nodejs/1144/nodejs-html-static-pages-website
 
-- AJAX
+- \*AJAX
   https://www.w3schools.com/xml/ajax_intro.asp
 
   - [tutorial] https://www.geeksforgeeks.org/ajax-introduction/
@@ -15,14 +15,13 @@ CORE LESSONS:
 - REST API
   https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
 
-- Objects
-  https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors
-
 - SPA with twitter API
-  - what is SPA?
+  - \*what is SPA?
     https://dzone.com/articles/what-is-a-single-page-application
-  - single page app without framework – BONUS: Express, Handlebars and Axios
+  - \*single page app without framework – BONUS: Express, Handlebars and Axios
     https://www.sitepoint.com/single-page-app-without-framework/
+  - \*SPA with React (a basic how to and general info about)
+    https://www.creative-tim.com/blog/web-development/create-single-page-application-using-react/
   - Twitter API
     https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
     https://developer.twitter.com/en/docs/twitter-api
