@@ -15,18 +15,24 @@ CORE LESSONS:
 - REST API
   https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
 
-- SPA with twitter API
-  - \*what is SPA?
-    https://dzone.com/articles/what-is-a-single-page-application
-  - \*single page app without framework – BONUS: Express, Handlebars and Axios
-    https://www.sitepoint.com/single-page-app-without-framework/
-  - \*SPA with React (a basic how to and general info about)
-    https://www.creative-tim.com/blog/web-development/create-single-page-application-using-react/
-  - Twitter API
-    https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
-    https://developer.twitter.com/en/docs/twitter-api
-  - how to do twitter authentication with react and restful api
-    https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb
+- \*what is SPA?
+  https://dzone.com/articles/what-is-a-single-page-application
+- \*single page app without framework – BONUS: Express, Handlebars and Axios
+  https://www.sitepoint.com/single-page-app-without-framework/
+
+SPA with twitter API:
+
+- \*SPA with React (a basic how to and general info about)
+  https://www.creative-tim.com/blog/web-development/create-single-page-application-using-react/
+- \*Another way of looking at SPA with React using the same method
+  https://hackernoon.com/simple-guide-to-creating-a-single-page-app-with-react-router-6b6f709a2e3f
+- \*create SPA Portfolio site with React
+  https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711
+- Twitter API
+  https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
+  https://developer.twitter.com/en/docs/twitter-api
+- how to do twitter authentication with react and restful api
+  https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb
 
 EXTRA:
 
