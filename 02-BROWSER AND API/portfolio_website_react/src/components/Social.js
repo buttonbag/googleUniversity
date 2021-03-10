@@ -5,16 +5,16 @@ class Social extends Component {
 		return (
 			<div className="social">
 				<a href="/">
-					<i className="fab fa-codepen">co</i>
+					<i className="fab fa-codepen" alt="co"></i>
 				</a>
 				<a href="/">
-					<i className="fab fa-instagram">in</i>
+					<i className="fab fa-instagram" alt="in"></i>
 				</a>
 				<a href="/">
-					<i className="fab fa-twitter">tw</i>
+					<i className="fab fa-twitter" alt="tw"></i>
 				</a>
 				<a href="/">
-					<i className="fab fa-linkedin">li</i>
+					<i className="fab fa-linkedin" alt="li"></i>
 				</a>
 			</div>
 		);
