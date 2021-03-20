@@ -28,6 +28,8 @@ SPA with twitter API:
   https://hackernoon.com/simple-guide-to-creating-a-single-page-app-with-react-router-6b6f709a2e3f
 - \*create SPA Portfolio site with React
   https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711
+- Consume A REST API With Fetch Method
+  https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/
 - Twitter API
   https://developer.twitter.com/en/docs/tutorials?filter=/product/twitter-api
   https://developer.twitter.com/en/docs/twitter-api
