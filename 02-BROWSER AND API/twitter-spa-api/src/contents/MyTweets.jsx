@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import TweetApi from '../components/TweetApi';
 
 class MyTweets extends Component {
 	render() {
@@ -7,6 +8,7 @@ class MyTweets extends Component {
 				<div className="row">
 					<div className="col-md">
 						<h1>MyTweets</h1>
+						<TweetApi />
 					</div>
 				</div>
 			</div>
