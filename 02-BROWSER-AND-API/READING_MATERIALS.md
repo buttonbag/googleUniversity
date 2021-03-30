@@ -1,4 +1,4 @@
-CORE LESSONS:
+## 02-BROWSER-AND-API:
 
 - \*Node.js Serving HTML
   https://www.dotnetcurry.com/nodejs/1144/nodejs-html-static-pages-website
@@ -36,7 +36,7 @@ SPA with twitter API:
 - how to do twitter authentication with react and restful api
   https://medium.com/@robince885/how-to-do-twitter-authentication-with-react-and-restful-api-e525f30c62bb
 
-EXTRA:
+EXTRA: (UNIT 03 stuff spilling over)
 
 - API and Microservices
   https://www.freecodecamp.org/learn/apis-and-microservices/
