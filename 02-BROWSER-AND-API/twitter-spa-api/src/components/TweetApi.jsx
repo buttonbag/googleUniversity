@@ -6,7 +6,7 @@ var userPosts = [];
 
 // this is the ID for @buttonbag
 const userId = 877011487;
-const url = `https://cors-anywhere.herokuapp.com/https://api.twitter.com/2/users/${userId}/tweets?max_results=100&tweet.fields=created_at`;
+const url = `https://cors-anywhere.herokuapp.com/https://api.twitter.com/2/users/${userId}/tweets?max_results=10&tweet.fields=created_at`;
 
 const bearerToken = process.env.REACT_APP_BEARER_TOKEN;
 
@@ -23,8 +23,8 @@ axios(config)
 		// console.log(JSON.stringify(response.data));
 		// push to array
 		var res = response.data;
-		console.table(res);
 		res.data.forEach((resp) => {
+			console.table(resp.created_at);
 			userPosts.push(resp);
 		});
 	})
@@ -46,12 +46,15 @@ class TweetApi extends Component {
 	render() {
 		if (!userPosts || userPosts.length === 0) return <p>No userPosts.</p>;
 		return (
-			<div className="container">
+			<div className="container d-flex flex-wrap">
 				{userPosts.map((post) => {
 					return (
-						<div className="post" key={post.created_at}>
-							<span>{post.created_at}</span>
-							<p>{post.text}</p>
+						<div
+							className="post m-3 w-25 d-flex flex-column"
+							key={post.created_at}
+						>
+							<span className="p-3">{post.created_at}</span>
+							<p className="p-3">{post.text}</p>
 						</div>
 					);
 				})}
